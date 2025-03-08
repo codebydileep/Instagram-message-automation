@@ -91,9 +91,6 @@ python Instagram.py
 ## 📜 License  
 
 This project is open-source and provided "as-is" for learning purposes. Use it at your own risk.  
-
----
-
-💡 **Got ideas to improve the script? Fork it, modify it, and make it better!** 🚀  
+ 
 
 
